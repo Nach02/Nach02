@@ -9,10 +9,9 @@
 
 - 💬 Ask me about **C++, JavaScript,SQL,React,Redux,NodeJS, Express, Sequelize, PostrgreSQL**
 
-- 📫 How to reach me **ignacio.martinez.i@hotmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  - 📫  ignacio.martinez.i@hotmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
