@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nach02&label=Profile%20views&color=0e75b6&style=flat" alt="nach02" /> </p>
 
-- 🔭 I’m currently working as a **React developer for a sports specialty retail e-commerce. I am developing both Front and Back End**
+- 🔭 I’m currently working as a **React developer for a sports specialized retail e-commerce. I am developing both Front and Back End**
 
 - 🌱 I’m currently learning **Ruby and Rails**
 
