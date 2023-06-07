@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nach02&label=Profile%20views&color=0e75b6&style=flat" alt="nach02" /> </p>
 
-- 🔭 I’m currently working on **a groupal project for Henry's Bootcamp, It is a Trivia App to play with your friends. I am developing the Back End**
+- 🔭 I’m currently working as a **React developer for a sports specialty retail e-commerce. I am developing both Front and Back End**
 
-- 🌱 I’m currently learning **Firebase and Socket.io**
+- 🌱 I’m currently learning **Ruby and Rails**
 
-- 💬 Ask me about **C++, JavaScript,SQL,React,Redux,NodeJS, Express, Sequelize, PostrgreSQL**
+- 💬 Ask me about **JavaScript,SQL,React, Next.js,Redux,NodeJS, Express, Sequelize, PostrgreSQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
